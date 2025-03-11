@@ -1,1 +1,1 @@
-[]
+[{"title": "1984", "author": "George Orwell", "year": 1949, "genre": "Dystopian Fiction", "read": false}, {"title": " The Hobbit", "author": " J.R.R. Tolkien", "year": 1937, "genre": "Fantasy", "read": true}, {"title": "The Pragmatic Programmer", "author": "Andrew Hunt & David Thomas", "year": 1999, "genre": " Technology / Software Development", "read": true}, {"title": " Atomic Habits", "author": "James Clear", "year": 2018, "genre": "Self-Help / Personal Development", "read": false}]
